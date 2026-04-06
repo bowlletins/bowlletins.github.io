@@ -37,7 +37,8 @@ Students at UH Mānoa often miss opportunities because information is scattered 
 ---
 
 ## 🖼️ Screenshots
-*(Add screenshots of your landing page, dashboard, and features here)*
+![Landing Page](images/Landing-Page1.png)
+(images/Landing-Page2.png)
 
 ---
 
