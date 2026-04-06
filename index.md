@@ -1,18 +1,21 @@
 # Bow-lletins
 
 ## Team
-- Your Name
-- Partner Name
+- Tamela Brinson
+- Annie Pham
+- Terisa Lau
+- Thomas Tran
+- Caden Tran
 
 ## Links
-- GitHub Repo: https://github.com/YOURNAME/bow-lletins
-- Deployment: https://your-app.vercel.app
+- GitHub Repo: https://github.com/bowlletins/bow-lletins
+- Deployment: https://bowlletins.vercel.app/
 
 ## Team Contract
-(Add link here)
+https://docs.google.com/document/d/12syu77LU1G1QKkW4B-k4xmobbV0jm0g-6yr_FPQ26Ls/edit?usp=sharing
 
 ## Deployment
-(Link to Vercel)
+https://bowlletins.vercel.app/
 
 ## Screenshots
 (Add images here)
