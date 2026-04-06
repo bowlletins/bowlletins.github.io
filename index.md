@@ -12,7 +12,7 @@
 - Deployment: https://bowlletins.vercel.app/
 
 ## Team Contract
-[View Team Contract](./team-contract.md)
+[View Contract](https://docs.google.com/document/d/12syu77LU1G1QKkW4B-k4xmobbV0jm0g-6yr_FPQ26Ls/edit?usp=sharing)
 
 
 ## Deployment
