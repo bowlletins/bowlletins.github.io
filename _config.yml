@@ -2,9 +2,3 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-remote-theme
-
-title: Bow-lletins
-description: Bow-lletins is a digital bulletin board platform designed for UH Mānoa students and affiliates. It helps students, organizations, clubs, and campus groups discover and share important opportunities such as jobs, internships, study groups, events, and deadlines in one centralized, searchable space.
-
-google_analytics:
-show_downloads: false
