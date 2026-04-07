@@ -4,11 +4,11 @@
 ---
 
 ## 👥 Team
-- Tamela Brinson  
-- Annie Pham  
-- Terisa Lau  
-- Thomas Tran  
-- Caden Tran  
+- [Tamela Brinson](https://github.com/Tamelab)  
+- [Annie Pham](https://github.com/AnnieP211)  
+- [Terisa Lau](https://github.com/terisa-lau)  
+- [Thomas Tran](https://github.com/ThomasTran808)  
+- [Caden Tran](https://github.com/CadenTran44)  
 
 ---
 
@@ -36,7 +36,7 @@ Landing Page
 ---
 
 ## 📌 Project Boards
-- M1 Project Board: *(Add link here)*  
+- [M1 Project Board](https://github.com/orgs/bowlletins/projects/5/views/2)  
 - M2 Project Board: *(Add link here)*  
 
 ---
