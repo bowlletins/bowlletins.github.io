@@ -13,8 +13,8 @@
 ---
 
 ## 📂 Project Links
-- GitHub Repository: https://github.com/Bow-lletins/Bowlletins  
-- Deployment: https://bowlletins.vercel.app/
+- [GitHub Repository](https://github.com/bowlettins/Bowlletins)
+- [Vercel](https://bowlletins.vercel.app/)
 
 ---
 
@@ -42,4 +42,4 @@ Landing Page
 ---
 
 ## ⚙️ Deployment
-https://bowlletins.vercel.app/
+[Bow-lletins Website](https://bowlletins.vercel.app/)
