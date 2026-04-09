@@ -17,8 +17,9 @@ https://bowlletins.vercel.app
 https://github.com/Bowlletins/bowlletins
 
 ## Contents
-index.md: Project overview and application concept
-team-contract.md: Collaboration and scope agreement
+- index.md: Project overview and application concept
+- team-contract.md: Collaboration and scope agreement
+- images/: UI mockups and concept visuals
 
 ## Contributors
 
